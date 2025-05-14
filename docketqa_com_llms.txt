@@ -1,0 +1,51 @@
+# LLMS.TXT FOR WEBSITE: https://docketqa.com
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://docketqa.com
+
+**1. Website Purpose & Audience:**
+
+Docket is an AI-powered QA testing platform designed to streamline web application testing. It is primarily targeted towards QA teams and developers who want to reduce coding and maintenance efforts in their testing processes.
+
+**2. Core Offerings/Products:**
+
+Docket offers a no-code QA testing solution. Users can create and execute tests using plain English prompts, leveraging AI agents and a real browser environment. The platform focuses on resilient testing that adapts to UI changes and provides actionable bug reports.
+
+**3. Key Content Sections:**
+
+Based on the available summary, the website features information about its core platform and benefits. While specific sections beyond the homepage aren’t detailed, the platform itself is the central offering.
+
+**4. Notable Features/Interactions:**
+
+Key features highlighted include visual interaction within tests, no-code test creation, and the generation of actionable reports. The platform’s ability to adapt to UI changes and automatically identify bugs is a central theme.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. This overview is based solely on the homepage content; information about sections like Blog, About, Resources, or Documentation is currently unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://docketqa.com
+- https://www.docketqa.com/old-home
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://docketqa.com ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Docket is an AI-powered QA testing platform enabling users to test web applications using plain English, eliminating the need for coding. It leverages AI agents and a real browser for resilient tests that adapt to UI changes and automatically flag bugs. Key features include visual interaction, no-code test creation, and actionable reports. The target audience is QA teams and developers seeking to streamline testing and reduce maintenance efforts.

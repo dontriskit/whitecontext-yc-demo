@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://www.vybe.build
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.vybe.build
+
+**1. Website Purpose & Audience:**
+
+Vybe.build is a platform aimed at helping companies build custom internal applications significantly faster – reportedly 10x faster – than traditional methods. The target audience is diverse, encompassing teams across various departments within a company, including engineering, product, support, customer success, operations, sales, marketing, HR, and finance.
+
+**2. Core Offerings/Products:**
+
+Vybe’s core offering is an AI-powered platform for creating enterprise-ready internal applications with minimal coding. This includes an AI assistant for app building and modification, pre-built templates, and the ability to create “glue apps” for data connection. The platform facilitates leveraging existing data sources and tools.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, the website focuses on showcasing the platform's capabilities. Key content areas include information about the AI-powered app building process, integrations (specifically GitHub and Jira mentioned), and examples of actionable dashboards. The site also appears to offer inspiration based on industry best practices.
+
+**4. Notable Features/Interactions:**
+
+A prominent feature is the conversational AI assistant used for app creation and modification. The platform emphasizes seamless integrations with existing tools and the use of pre-built templates to accelerate development.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. This overview is based solely on the homepage content. Further details regarding specific product features, pricing, or detailed documentation are currently unknown based on the provided summary.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://www.vybe.build
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.vybe.build ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Vybe is an AI-powered platform designed to help companies build custom internal applications 10x faster. It focuses on enabling users to create enterprise-ready apps without extensive coding, leveraging existing data sources and tools. The platform utilizes a conversational AI assistant for app creation and modification, and offers inspiration from industry best practices. It targets various teams within companies, including engineering, product, support, customer success, operations, sales, marketing, HR, and finance. Key features include AI-powered app building, seamless integrations with tools like GitHub and Jira, pre-built templates, actionable dashboards, and glue apps for connecting data.

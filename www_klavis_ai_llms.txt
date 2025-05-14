@@ -1,0 +1,85 @@
+# LLMS.TXT FOR WEBSITE: https://www.klavis.ai/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.klavis.ai/:
+
+**1. Website Purpose & Audience:**
+
+Klavis AI’s primary goal is to simplify the use, building, and scaling of Model Context Protocols (MCP) for integrating tools into AI applications. The target audience is developers and organizations building AI applications seeking to dynamically integrate tools and streamline workflows.
+
+**2. Core Offerings/Products:**
+
+Klavis AI provides infrastructure for MCP, including hosted MCP servers and clients for platforms like Slack and Discord. A web UI is offered to simplify integration. The platform enables dynamic tool addition at runtime, avoiding preconfigured integrations.
+
+**3. Key Content Sections:**
+
+The website features sections for:
+*   **MCP Integrations:** Details on available integrations.
+*   **What's New:** Updates and announcements.
+*   **Pricing:** Four tiers – Hobby (Free), Pro ($99/month), Team ($499/month), and Enterprise (custom pricing).
+*   **FAQs:** Frequently asked questions.
+*   **Blog** (implied through general site structure)
+*   **About** (implied through general site structure)
+
+**4. Notable Features/Interactions:**
+
+The site includes interactive elements such as Sign In/Sign Up buttons, “Get Started” buttons, code examples for API integration (cURL, Python, JavaScript, PHP, Go, Java), and links to social media channels (Discord, X, LinkedIn, GitHub, YouTube) and a Contact Us form.
+
+**5. Content Gaps/Errors:**
+
+0 out of 2 relevant pages failed summarization. The summaries suggest the presence of Blog and About sections, but detailed content from those areas was not provided.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 17)
+
+- https://www.klavis.ai
+- https://www.klavis.ai/
+- https://www.klavis.ai/blog
+- https://www.klavis.ai/blog/early-access-customized-mcp-testing-and-eval-platform-from-klavis-ai
+- https://www.klavis.ai/blog/klavis-ai-open-source-mcp-client-on-slack-discord-and-various-mcp-servers
+- https://www.klavis.ai/contact
+- https://www.klavis.ai/cookie-policy
+- https://www.klavis.ai/docs
+- https://www.klavis.ai/docs/api-documentation-connect-an-mcp-server
+- https://www.klavis.ai/docs/api-documentation-github-oauth
+- https://www.klavis.ai/docs/api-documentation-instance-status
+- https://www.klavis.ai/docs/step-by-step-guide-on-using-klavis-discord-mcp-client
+- https://www.klavis.ai/docs/step-by-step-guide-on-using-klavis-slack-mcp-client
+- https://www.klavis.ai/faq
+- https://www.klavis.ai/pricing
+- https://www.klavis.ai/privacy-policy
+- https://www.klavis.ai/terms-of-service
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 16
+
+Page Type Counts:
+  - BLOG_ARTICLE: 3
+  - CONTACT: 1
+  - DOCUMENTATION: 6
+  - FAQ: 1
+  - HOMEPAGE: 1
+  - OTHER: 3
+  - PRICING: 1
+
+Relevance for Summary Counts:
+  - HIGH: 2
+  - LOW: 5
+  - MEDIUM: 9
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.klavis.ai/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Klavis AI provides infrastructure to simplify the use, building, and scaling of Model Context Protocols (MCP). It offers hosted MCP servers, clients for platforms like Slack and Discord, and a web UI to reduce the complexity of integrating tools into AI applications. The platform aims to enable dynamic tool addition at runtime, eliminating the need for preconfigured integrations. Key sections include MCP Integrations, What's New, Pricing (Hobby, Pro, Team, Enterprise), and FAQs. The target audience is developers and organizations building AI applications who want to dynamically integrate tools and simplify workflows. Interactive elements include Sign In/Sign Up buttons, Get Started buttons, code examples for API integration (cURL, Python, JavaScript, PHP, Go, Java), links to social media (Discord, X, LinkedIn, GitHub, YouTube), and Contact Us.
+
+--- URL: https://www.klavis.ai/pricing ---
+CLASSIFIED TYPE: PRICING
+SUMMARY:
+KlavisAI offers four pricing plans: Hobby (Free, 3 users, 100 API calls/month, community support), Pro ($99/month, up to 100 users, 10k API calls/month, dedicated support), Team ($499/month, up to 500 users, 100k API calls/month, dedicated support), and Enterprise (Contact Us for custom pricing, users, and API calls with CEO & CTO support). The plans cater to different user needs, ranging from individual developers to large businesses.

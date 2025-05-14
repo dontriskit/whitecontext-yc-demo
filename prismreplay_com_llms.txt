@@ -1,0 +1,53 @@
+# LLMS.TXT FOR WEBSITE: https://prismreplay.com
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://prismreplay.com
+
+**1. Website Purpose & Audience:**
+
+Prism AI (https://prismreplay.com) is a product analytics platform designed to help product teams and managers improve conversion rates and user experience by identifying and resolving issues within their product workflows.
+
+**2. Core Offerings/Products:**
+
+The core offering is an AI-powered session replay analysis tool. This includes automatic tracking of user sessions and the delivery of actionable insights derived from that data. Prism AI provides tiered pricing plans – Team, Professional, and Enterprise – differentiated by session volume.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, the site likely contains sections detailing:
+*   **Products:** Information on the session replay platform itself.
+*   **Pricing:** Details of the Team, Professional, and Enterprise tiers.
+*   **Integration:** Information on integrations with tools like Linear and GitHub.
+
+**4. Notable Features/Interactions:**
+
+Key features highlighted are quick installation, AI-powered session analysis, and actionable insights. The platform emphasizes ease of use and integration with existing development workflows.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. This overview is based solely on the homepage content and may not be fully representative of the entire website. Sections like Blog, About, Resources, and Documentation are inferred but not directly confirmed by the provided summary.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://prismreplay.com
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://prismreplay.com ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Prism AI is an AI-powered product analytics platform that helps users identify and fix issues in their product workflows through session replay analysis. It targets product teams and managers looking to improve conversion rates and user experience. Key features include automatic tracking, actionable insights, integration with tools like Linear and GitHub, and a tiered pricing structure (Team, Professional, Enterprise) based on session volume. The platform offers quick installation, AI-powered session analysis, and actionable insights.

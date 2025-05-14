@@ -1,0 +1,51 @@
+# LLMS.TXT FOR WEBSITE: https://partcl.com/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://partcl.com/
+
+**1. Website Purpose & Audience:**
+
+Partcl aims to accelerate electronic design automation (EDA) – specifically design space exploration – to shorten tapeout times and lower non-recurring engineering (NRE) costs. The target audience includes developers of AI accelerators, embedded/IoT devices, and mobile SoCs, as well as academic researchers.
+
+**2. Core Offerings/Products:**
+
+Partcl provides a GPU-accelerated EDA engine. Its core technology centers around two key components: Boson (for 700x faster static timing analysis) and Graviton (for 100x faster timing-aware placement). The engine supports netlists up to 7M gates, with reported performance of 3-second analysis times.
+
+**3. Key Content Sections:**
+
+The website focuses on presenting the core engine and its capabilities. Key sections include information about the company’s founding team and its Y Combinator backing.
+
+**4. Notable Features/Interactions:**
+
+The website emphasizes speed and performance gains (700x and 100x faster analysis) as key differentiators. Early access to the beta version is available via a contact form.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The provided summary is limited to the homepage, so a full understanding of all content areas (e.g., blog, documentation) is unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://partcl.com
+- https://partcl.com/
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://partcl.com/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Partcl is a GPU-accelerated electronic design automation (EDA) engine focused on design space exploration to reduce tapeout deadlines and NRE costs. It targets AI accelerator, embedded/IoT, and mobile SoC developers, as well as academics. Key features include fast timing and power estimation powered by Boson (700x faster static timing analysis) and Graviton (100x faster timing-aware placer), supporting netlists up to 7M gates in 3 seconds. Founded in 2024 by Will and Vamshi (Cornell, UC Berkeley, Stanford backgrounds) and backed by Y Combinator, Partcl is currently in beta with early access available via contact.

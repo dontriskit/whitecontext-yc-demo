@@ -1,0 +1,80 @@
+# LLMS.TXT FOR WEBSITE: https://golf.dev/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://golf.dev/:
+
+**1. Website Purpose & Audience:** Golf.dev aims to provide infrastructure and tools for building and deploying secure, agent-first products. The target audience is developers and companies focused on creating and scaling agent-based applications, as well as teams of varying sizes seeking project management solutions.
+
+**2. Core Offerings/Products:** The core offering is infrastructure for hosted and self-hosted (BYOC) MCP servers. This includes features like secure authentication and routing, request tracing, detailed metrics & analytics, and scalability through managed servers. Golf also provides a project management tool with tiered pricing plans.
+
+**3. Key Content Sections:** The website features sections for:
+*   **Homepage:** Overview of platform capabilities and calls to action.
+*   **Features:** Detailed breakdown of the agent infrastructure features.
+*   **Pricing:** Information on available plans (Free, Pro, Business) and associated costs.
+
+**4. Notable Features/Interactions:** Recurring interactive elements include “Get started for free” and “Sign up now” buttons within the pricing plans, as well as “Book a call” and “Join Waitlist” options on the homepage. The platform emphasizes secure routing, usage tracking, and the ability to control deployment.
+
+**5. Content Gaps/Errors:** 0 out of 3 relevant pages failed summarization. The summaries provided a clear overview of the core functionality and pricing, but further content areas (e.g., Blog, About, Resources, Documentation) were not represented in the provided data.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 18)
+
+- https://golf.dev
+- https://golf.dev/
+- https://golf.dev/3D-assets
+- https://golf.dev/404
+- https://golf.dev/banner
+- https://golf.dev/button
+- https://golf.dev/cta
+- https://golf.dev/example-page-dark
+- https://golf.dev/faq
+- https://golf.dev/features
+- https://golf.dev/footer
+- https://golf.dev/hero
+- https://golf.dev/logo
+- https://golf.dev/navigation
+- https://golf.dev/pricing
+- https://golf.dev/testimonials
+- https://golf.dev/tooltip
+- https://golf.dev/typography
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 17
+
+Page Type Counts:
+  - CASE_STUDY: 1
+  - DEVELOPER_HUB: 3
+  - DOCUMENTATION: 1
+  - FAQ: 1
+  - HOMEPAGE: 1
+  - OTHER: 7
+  - PRICING: 1
+  - PRODUCT_SERVICE: 1
+  - RESOURCES: 1
+
+Relevance for Summary Counts:
+  - HIGH: 3
+  - LOW: 6
+  - MEDIUM: 8
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://golf.dev/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Golf.dev provides a gateway for deploying secure, remote MCP servers, enabling control over deployment and preparation for agent traffic. Key features include rate limiting, tool filtering, authentication (OAuth, API keys), hosted/BYOC options, request tracing, and usage tracking. It's designed for agent-first products and offers both managed infrastructure and secure routing. The primary calls to action are 'Book a call' and 'Join Waitlist', targeting developers and companies focused on agent-based applications.
+
+--- URL: https://golf.dev/features ---
+CLASSIFIED TYPE: PRODUCT_SERVICE
+SUMMARY:
+Golf provides infrastructure for building agent-first products. Key features include hosted MCP servers for scalability and maintenance, secure authentication and routing with tenant isolation, request tracing for visibility, and detailed metrics for analytics and billing. The platform targets developers deploying agent-based applications.
+
+--- URL: https://golf.dev/pricing ---
+CLASSIFIED TYPE: PRICING
+SUMMARY:
+Golf is a project management tool offering three pricing plans: Free ($0/month) with basic features for small teams, Pro ($9/month) for growing teams needing advanced analytics and export capabilities, and Business ($19/month) for unlimited teams with dedicated support and API access. The main interactive elements are 'Get started for free' and 'Sign up now' buttons for each plan. The target audience includes individuals and teams of varying sizes seeking project management solutions.

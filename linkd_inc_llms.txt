@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://linkd.inc
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://linkd.inc
+
+**1. Website Purpose & Audience:**
+
+Linkd Inc.’s primary goal is to develop a human-interaction-focused search algorithm for social networks, starting with alumni networks. The target audience includes businesses interested in people search solutions, potential investors, and users looking to connect with alumni.
+
+**2. Core Offerings/Products:**
+
+The core offering is a search algorithm designed to improve people discovery within social networks, specifically alumni networks. The website currently focuses on demonstrating this technology through a beta program.
+
+**3. Key Content Sections:**
+
+The website features a homepage outlining the company’s mission and approach. It appears to include sections implicitly related to investor information and school/network integration requests.
+
+**4. Notable Features/Interactions:**
+
+The homepage includes interactive beta search links for specific schools and a form for schools to request integration with the Linkd Inc. platform.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The provided summary is limited to the homepage, meaning detailed information about products, resources, documentation, or other potential sections is unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://linkd.inc
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://linkd.inc ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Linkd Inc. is developing a search algorithm centered around human interactions for social networks, initially focused on alumni networks. The company targets businesses interested in people search, investors, and users seeking alumni connections. Key interactive elements include beta school search links and a request form for schools.

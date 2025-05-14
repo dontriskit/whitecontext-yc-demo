@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://www.tryminerva.ai
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.tryminerva.ai
+
+**1. Website Purpose & Audience:**
+
+The website promotes Minerva, an AI-powered accounting service designed for Small and Medium-sized Businesses (SMBs). The primary goal is to offer automated bookkeeping and tax filing solutions.
+
+**2. Core Offerings/Products:**
+
+Minerva provides a comprehensive accounting service encompassing: automated bookkeeping, tax filing, data scanning (from email & WhatsApp), bill/receipt analysis, transaction categorization, bank/credit card reconciliation, QuickBooks/Xero synchronization, Accounts Payable (AP) & Accounts Receivable (AR) management (with reminders), transaction verification, tax record maintenance, and financial reporting.
+
+**3. Key Content Sections:**
+
+Based on the available summary, the website focuses primarily on detailing the core service itself.  Further sections (Blog, About, Resources, Documentation) are not explicitly mentioned in the provided summary.
+
+**4. Notable Features/Interactions:**
+
+A key feature is the combination of AI automation with oversight from human Certified Public Accountants (CPAs). The service utilizes AI chat support and emphasizes real-time financial reporting. Automated routine tasks and communication regarding transaction verification are also prominent.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is limited by the single homepage summary provided.  Information about pricing, specific plans, team details, or detailed resource offerings is currently unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://www.tryminerva.ai
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.tryminerva.ai ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Minerva is an AI-powered accounting service for SMBs, automating bookkeeping and tax filing. Key features include data scanning from email/WhatsApp, messy bill/receipt analysis, accurate transaction categorization, bank/credit card reconciliation, QuickBooks/Xero synchronization, AP/AR management with reminders, transaction verification communication, tax filing record maintenance, automated routine tasks, real-time financial reporting, and AI chat support, all overseen by human CPAs.

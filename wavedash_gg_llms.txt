@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://wavedash.gg
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://wavedash.gg
+
+**1. Website Purpose & Audience:**
+
+Wavedash.gg is a game development platform designed to automate key aspects of the development process – builds, deployments, testing, and feedback collection – for game developers, with a particular focus on Unity users.
+
+**2. Core Offerings/Products:**
+
+The platform provides a suite of tools including: Zero-Config CI/CD, Agentic Playtesting, Autonomous AI Code Improvement, Effortless Distribution, Integrated Human Feedback, and Automated Social Content creation. These tools aim to streamline the development lifecycle.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, the site features sections related to its core product offerings and likely includes areas for Login, Sign Up, and a Free Trial option. Further sections (not explicitly detailed in the provided summary) would likely encompass information about the platform's features, pricing, and support.
+
+**4. Notable Features/Interactions:**
+
+The primary interactive elements highlighted are calls to action: Login, Sign Up, and a “Try it for free” button, suggesting a focus on user acquisition and platform access.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is based solely on the homepage content; a more complete picture would require summaries of additional pages (e.g., Blog, Products, About, Resources, Documentation).
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://wavedash.gg
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://wavedash.gg ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Wavedash.gg is an all-in-one game development platform automating build, deployment, testing, and feedback capture. It targets game developers, particularly Unity users, by offering Zero-Config CI/CD, Agentic Playtesting, Autonomous AI Code Improvement, Effortless Distribution, Integrated Human Feedback, and Automated Social Content. Key interactive elements include Login, Sign Up, and Try it for free buttons.

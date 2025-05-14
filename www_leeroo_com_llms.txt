@@ -1,0 +1,56 @@
+# LLMS.TXT FOR WEBSITE: https://www.leeroo.com/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.leeroo.com/
+
+**1. Website Purpose & Audience:**
+
+Leeroo is a platform designed to simplify the development and deployment of deep AI agents. It targets developers and businesses who want to utilize AI agents but seek to avoid the complexities of infrastructure management.
+
+**2. Core Offerings/Products:**
+
+Leeroo provides a complete ecosystem of tools, models, and infrastructure for building and training AI agents. The platform focuses on enabling the creation of production-ready agents with features like end-to-end training and multi-agent collaboration. On-premise deployment is also supported.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, the website likely features sections detailing the platform's products, capabilities, and potentially resources for developers.
+
+**4. Notable Features/Interactions:**
+
+The platform emphasizes simplifying AI agent creation and deployment. Key features include end-to-end training and support for multi-agent systems. The ability to deploy agents on-premise is a notable offering.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is based solely on the homepage content and may not be fully representative of the entire website.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 7)
+
+- https://leeroo.com
+- https://leeroo.com/blueprints
+- https://leeroo.com/blueprints/5d441fd4-dde6-40ad-8509-1cbaa56328a7
+- https://leeroo.com/blueprints/abd7493b-9a3c-4fc1-879a-f9ba40afc3db
+- https://leeroo.com/blueprints/c482e6c0-a422-443c-a915-8ae03282aff2
+- https://leeroo.com/company
+- https://www.leeroo.com/
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.leeroo.com/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Leeroo is a platform for building and training deep AI agents. It simplifies the process of creating production-ready agents by providing an ecosystem of tools, models, and infrastructure. Key features include end-to-end training, multi-agent collaboration, and on-premise deployment options. The target audience appears to be developers and businesses looking to leverage AI agents without the complexity of managing the underlying infrastructure.

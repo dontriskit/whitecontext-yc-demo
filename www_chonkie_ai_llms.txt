@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://www.chonkie.ai
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Chonkie.ai - Website Overview
+
+**1. Website Purpose & Audience:**
+
+Chonkie.ai aims to provide tools and services for preparing data for use in Artificial Intelligence applications, specifically targeting high-volume enterprise use cases.
+
+**2. Core Offerings/Products:**
+
+The core offering is an open-source data ingestion tool that cleans and chunks data to make it “AI-ready.” A managed pipeline service, **CHOMP**, is also offered, currently available through a waitlist.
+
+**3. Key Content Sections:**
+
+Based on the available summary, the website features information about the core data ingestion tool and the **CHOMP** pipeline. While not explicitly stated, a homepage exists providing an overview of the platform.
+
+**4. Notable Features/Interactions:**
+
+The website highlights **CHOMP** as a key new feature and utilizes a waitlist system for access.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The summaries provided are limited, so a comprehensive overview of all content sections (e.g., Blog, About, Resources, Documentation) cannot be created.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://www.chonkie.ai
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.chonkie.ai ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Chonkie is an open-source data ingestion tool designed to prepare data for AI applications. It cleans, chunks, and makes data AI-ready, focusing on high-volume enterprise use cases. A key new feature is **CHOMP**, Chonkie's managed pipeline, currently available via a waitlist.

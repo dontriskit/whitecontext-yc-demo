@@ -1,0 +1,50 @@
+# LLMS.TXT FOR WEBSITE: https://www.frekil.com
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Frekil Website Overview
+
+**1. Website Purpose & Audience:**
+
+Frekil is a medical annotation tool designed for healthcare companies. The primary goal is to provide a faster and more efficient solution for medical image annotation, supporting standardized interpretations and quality assurance.
+
+**2. Core Offerings/Products:**
+
+Frekil offers an AI-powered annotation platform supporting multiple medical image modalities (Xrays, MRIs, CTs). Key features include AI assistance for annotations, annotator tracking, and consensus-based workflows. It’s a cloud-based service.
+
+**3. Key Content Sections:**
+
+Based on the available summary, the website focuses on presenting the core product and its benefits. Contact information (founders@frekil.com) is provided for custom pricing inquiries. Further sections (Blog, About, Resources, Documentation) are not detailed in the provided summary.
+
+**4. Notable Features/Interactions:**
+
+The website highlights speed (10x faster annotations), ease of use (minimal training, quick setup), and quality control mechanisms (annotator tracking, consensus workflows) as key differentiators. Direct contact with the founders is encouraged for pricing.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. However, the summary is limited to the homepage, and details about other potential sections of the website are unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://www.frekil.com
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.frekil.com ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Frekil is an AI-powered medical annotation tool for healthcare companies, backed by Y Combinator. It offers 10x faster annotations across multiple modalities (Xrays, MRIs, CTs) with AI assistance, annotator tracking for quality assurance, and consensus-based workflows for standardized interpretations. It's cloud-based with minimal training required and quick setup. Contact founders@frekil.com for custom pricing.

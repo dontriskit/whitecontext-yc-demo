@@ -1,0 +1,56 @@
+# LLMS.TXT FOR WEBSITE: https://morphik.ai
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://morphik.ai
+
+**1. Website Purpose & Audience:**
+
+Morphik.ai is an AI-powered data platform designed for developers and businesses who need to build enterprise applications with a focus on accurate data processing and knowledge graph creation. The platform prioritizes utilizing “Your Data. Your Intelligence” and aims to eliminate AI hallucinations.
+
+**2. Core Offerings/Products:**
+
+The core offering is a data platform featuring ColPali vision technology (for image and text understanding), KV Cache Storage (for fast data retrieval), and Intelligent Processing capabilities – including data transformation and PII redaction. Users can build custom Knowledge Graphs using the platform.
+
+**3. Key Content Sections:**
+
+The website includes sections for:
+*   **Solutions:** (Specific solutions are not detailed in the provided summary)
+*   **Docs:** Documentation for the platform.
+*   **Pricing:** Information on pricing plans.
+*   **Blog:** A blog with relevant content.
+*   **GitHub:** Link to the platform’s GitHub repository.
+*   **About:** (Details not provided in summary)
+
+**4. Notable Features/Interactions:**
+
+Key interactive elements include “Sign in”, “Get started”, “Schedule a demo”, and code examples demonstrating platform usage. The homepage emphasizes the platform’s ability to work with complex data and provides links to further resources.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The summaries provide a high-level overview, and details regarding specific solutions and the “About” section are missing.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 1)
+
+- https://morphik.ai
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://morphik.ai ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Morphik is an AI-powered data platform for building enterprise applications, emphasizing 'Your Data. Your Intelligence. No Hallucinations'. Key features include ColPali vision technology for accurate image and text understanding, KV Cache Storage for fast retrieval, and Intelligent Processing for data transformation and PII redaction. It supports building custom Knowledge Graphs. Target users are developers and businesses needing to process complex data, particularly in Automotive, Banking & Finance, Healthcare, and other industries. Interactive elements include Sign in, Get started, Solutions, Docs, Pricing, and a Schedule a demo button. Code examples and links to Documentation, Blog, and GitHub are also available.

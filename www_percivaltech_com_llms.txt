@@ -1,0 +1,51 @@
+# LLMS.TXT FOR WEBSITE: https://www.percivaltech.com/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.percivaltech.com/
+
+**1. Website Purpose & Audience:**
+
+The website for Percival is designed to showcase an AI-powered automation platform specifically for B2B distributors. The target audience is businesses involved in B2B distribution looking to improve efficiency and productivity.
+
+**2. Core Offerings/Products:**
+
+Percival offers an automation platform that streamlines data entry processes from common B2B distributor documents, including quote requests, purchase orders, and price lists. The platform emphasizes fully customizable solutions.
+
+**3. Key Content Sections:**
+
+Based on the provided summary, the core of the site revolves around presenting the platform itself. While specific sections beyond the homepage aren’t detailed, it’s implied the site likely contains information on Products/Features, and potentially About the company.
+
+**4. Notable Features/Interactions:**
+
+The key takeaway is the platform’s focus on customizable automation for document data entry to boost productivity within B2B distribution workflows.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is limited by the single homepage summary provided; details on supporting content (blog, resources, documentation, pricing, etc.) are currently unavailable.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://www.percivaltech.com
+- https://www.percivaltech.com/
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.percivaltech.com/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Percival is an AI-powered automation platform for B2B distributors. It helps streamline data entry from customer and supplier documents, focusing on quote requests, purchase orders, and price lists. The platform offers fully customizable solutions and aims to increase productivity.

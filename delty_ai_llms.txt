@@ -1,0 +1,53 @@
+# LLMS.TXT FOR WEBSITE: https://delty.ai
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://delty.ai
+
+**1. Website Purpose & Audience:**
+
+Delty.ai aims to accelerate software planning, design, and construction for enterprise engineering teams. The target audience is leading enterprise engineering teams seeking to improve speed and confidence in their software development processes.
+
+**2. Core Offerings/Products:**
+
+Delty is presented as an “AI staff engineer” providing deep system knowledge and context-aware evaluation. It functions as a principal architect, offering solution proposals tailored to existing technology stacks. Core capabilities include faster execution via agentic IDE integration, early flaw detection, and coding throughput improvements through Copilot extensions and MCP.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, the website focuses primarily on product demonstration and feature explanation. While not explicitly detailed, sections likely exist to further explain the product’s capabilities, integrations (Copilot, agentic IDEs), and potentially case studies or examples of its use.
+
+**4. Notable Features/Interactions:**
+
+The website highlights integration with existing developer tools (agentic IDEs, Copilot) as a key interaction point. A recurring theme is the proactive nature of the AI – evaluating technologies, detecting flaws early, and *proposing* solutions.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is limited to the information available on the homepage. Further analysis of sections like "About", "Resources", or detailed product documentation would be needed for a more complete picture.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 4)
+
+- https://delty.ai
+- https://www.delty.ai/404
+- https://www.delty.ai/about-us
+- https://www.delty.ai/enterprise
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://delty.ai ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Delty is an AI staff engineer designed to help leading enterprise engineering teams plan, design, and build software faster and with more confidence. It provides deep system knowledge, context-aware evaluation of technologies and designs, and acts as a principal architect proposing solutions aligned with existing tech stacks. Key features include faster execution through integration with agentic IDEs, early flaw detection, and improved coding throughput via Copilot extensions and MCP.

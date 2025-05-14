@@ -1,0 +1,63 @@
+# LLMS.TXT FOR WEBSITE: https://willowvoice.com/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://willowvoice.com/
+
+**1. Website Purpose & Audience:**
+
+Willow Voice is an AI-powered dictation tool for Mac users, designed to provide a faster and more efficient alternative to traditional typing. The primary goal is to improve user productivity and reduce time spent writing. The target audience is individuals seeking to enhance their writing speed and efficiency, particularly those already using a Mac.
+
+**2. Core Offerings/Products:**
+
+The core offering is an AI-powered dictation and formatting tool. It features instant dictation, automatic editing, personalization, and “smart memory” capabilities. A free trial with limited features is available, alongside a paid individual plan offering unlimited word usage and expanded functionality. It integrates with applications like Slack, Gmail, and Notion.
+
+**3. Key Content Sections:**
+
+The website features sections including a Homepage, Pricing information, a Manifesto, a Wall of Love (likely testimonials), and an FAQ. There is also a focus on providing access to download the tool and “Get Started” resources.
+
+**4. Notable Features/Interactions:**
+
+Recurring interactive elements include download buttons for the Mac application, upgrade options for paid plans, and links to supporting content like the Manifesto and FAQ. The website emphasizes a free trial option to encourage user adoption.
+
+**5. Content Gaps/Errors:**
+
+0 out of 2 relevant pages failed summarization. The summaries provided are limited to the Homepage and Pricing page, so a complete overview of all website content is not possible.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 5)
+
+- https://willowvoice.com
+- https://willowvoice.com/
+- https://willowvoice.com/manifesto
+- https://willowvoice.com/pricing
+- https://willowvoice.com/testimonials
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 4
+
+Page Type Counts:
+  - ABOUT_US: 1
+  - CASE_STUDY: 1
+  - HOMEPAGE: 1
+  - PRICING: 1
+
+Relevance for Summary Counts:
+  - HIGH: 2
+  - MEDIUM: 2
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://willowvoice.com/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Willow Voice is an AI-powered dictation tool for Mac that aims to replace traditional typing with a faster, more efficient alternative. It integrates with popular apps like Slack, Gmail, and Notion, offering features such as automatic editing, personalization, and a focus on privacy. The target audience is individuals seeking to improve productivity and reduce time spent typing. Key interactive elements include links to 'Manifesto', 'Wall of Love', 'Pricing', 'FAQ', and a 'Get Started' button for downloading a free trial.
+
+--- URL: https://willowvoice.com/pricing ---
+CLASSIFIED TYPE: PRICING
+SUMMARY:
+Willow Voice is a dictation and formatting tool designed to help users write faster. It offers a free trial with limited features and a paid individual plan with unlimited words and more advanced capabilities. Key features include instant dictation, formatting, personalization, and smart memory. The target audience is individuals, specifically Mac users, who want to improve their writing speed and efficiency. Interactive elements include download buttons for Mac, upgrade buttons, and links to other pages like Manifesto, FAQ, and Get Started.

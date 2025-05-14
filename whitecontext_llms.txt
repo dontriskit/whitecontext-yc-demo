@@ -1,0 +1,51 @@
+# LLMS.TXT FOR WEBSITE: https://whitecontext.com/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://whitecontext.com/
+
+**1. Website Purpose & Audience:**
+
+Whitecontext aims to solve the problem of information overload on the internet by providing AI-ready `context` files derived from visually mining websites. The target audience includes AI developers, data scientists, businesses utilizing AI, human analysts, and potential investors.
+
+**2. Core Offerings/Products:**
+
+The core offering is the creation and delivery of `context` files – token-efficient, plain-text representations of website content designed for seamless integration with Large Language Models (LLMs) and Vision Language Models (VLMs). This is achieved through a process called "Visual Mining."  Key products/concepts include: Vision-First Context Mining, the Context Bank (a repository of these files), and a focus on "Radical Efficiency" in data processing.
+
+**3. Key Content Sections:**
+
+The website prominently features sections detailing: The Problem (information overload), Our Solution (Visual Miners & context file creation), Product information, various Use Cases (B2B Sales & Marketing, SEO, AI Fine-Tuning, Market Analysis), The White Advantage (clarity, cost), and an Invest section for potential funding.
+
+**4. Notable Features/Interactions:**
+
+The site emphasizes the cost-effectiveness of its solution ($0.19/file) and highlights the benefits of using `context` files for improved AI performance and efficiency.  A core recurring theme is the transformation of website "noise" into usable "signal."
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://whitecontext.com
+- https://whitecontext.com/
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://whitecontext.com/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+White is building a "Context Bank" by visually mining the web, transforming noise into signal, and delivering AI-ready `context` files. They aim to solve the problem of information overload on the internet, making data more accessible and efficient for both AI models and human analysts. Their core deliverable is `context` files - token-efficient, plain-text representations of a website's core information, ready for LLM/VLM integration. Key sections include: The Problem (internet complexity and wasted resources), Our Solution (creating context files with Visual Miners), Product (Vision-First Context Mining, Context Bank, Radical Efficiency), Use Cases (B2B Sales & Marketing, SEO, AI Fine-Tuning, Market Analysis, etc.), The White Advantage (clarity, cost-effectiveness, $0.19/file), and Invest (seeking investment). The target audience includes AI developers, data scientists, businesses leveraging AI, investors, and human analysts.

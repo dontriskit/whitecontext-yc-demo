@@ -1,0 +1,51 @@
+# LLMS.TXT FOR WEBSITE: https://www.scalarfield.io/
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://www.scalarfield.io/
+
+**1. Website Purpose & Audience:**
+
+Scalar Field’s primary purpose is to provide financial data and tools for research and trading idea generation. The website targets traders, investors, and financial analysts who require data-driven insights for market analysis and strategy refinement.
+
+**2. Core Offerings/Products:**
+
+The core offering is access to a comprehensive suite of financial datasets and analytical tools. These include datasets related to: Fundamentals (over 2,000 companies), Insider Trading, a detailed Economics Calendar (over 1 million series), Options data, and Fixed Income data. The platform also features AI-driven backtesting and portfolio benchmarking capabilities.
+
+**3. Key Content Sections:**
+
+Based on the homepage summary, key content areas likely include information about the available Products/Datasets, features like backtesting, and research capabilities (event-driven research, macroeconomic analysis). While not explicitly stated, sections like About (company information) and potentially Resources/Documentation (for data access and tool usage) are implied.
+
+**4. Notable Features/Interactions:**
+
+A recurring theme is the emphasis on data-driven insights and leveraging AI for financial analysis. Key interactions revolve around utilizing the datasets for backtesting trading strategies and benchmarking portfolios.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. This overview is based solely on the provided homepage summary and may not represent the full scope of the website’s content.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://www.scalarfield.io
+- https://www.scalarfield.io/
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 1
+
+Page Type Counts:
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://www.scalarfield.io/ ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Scalar Field provides comprehensive access to financial data and tools for research and trading idea generation, enabling users to understand markets faster. Its target audience is traders, investors, and financial analysts seeking data-driven insights to refine trading strategies and analyze market trends. Key features include AI-driven backtesting, portfolio benchmarking, event-driven research, and macroeconomic analysis. The platform offers datasets related to Fundamentals (over 2,000 companies), Insider Trading, Economics Calendar (over 1 million series), Options, and Fixed Income.

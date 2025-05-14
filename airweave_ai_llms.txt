@@ -1,0 +1,53 @@
+# LLMS.TXT FOR WEBSITE: https://airweave.ai
+# Generated on: 2025-05-14 03:38:40 CEST
+
+============================== SYNTHESIZED OVERVIEW ==============================
+
+## Synthesized Website Overview for https://airweave.ai
+
+**1. Website Purpose & Audience:**
+
+Airweave.ai is a platform designed to simplify the process of building and deploying AI agents. The primary audience is developers and CTOs looking to accelerate agent development and improve user experience through connected, data-aware agents.
+
+**2. Core Offerings/Products:**
+
+Airweave provides a no-code platform for agent building, focusing on instant data synchronization and scalable deployment. It offers connectivity to various applications via 100+ connectors, enabling agents to access deep user knowledge. A key offering is the ability to create white-labeled support agents.
+
+**3. Key Content Sections:**
+
+The website features sections detailing the platform's core features, a comparison of traditional agent building methods versus Airweave’s approach, and frequently asked questions. It also includes a Blog, and sections for About and Resources (likely including connectors and documentation).
+
+**4. Notable Features/Interactions:**
+
+Interactive elements include a "Talk to a Founder" call to action and a link to the Airweave GitHub repository. The site prominently uses a comparative approach, highlighting the benefits of Airweave over a more complex, traditional development process.
+
+**5. Content Gaps/Errors:**
+
+0 out of 1 relevant pages failed summarization. The overview is based solely on the homepage content. Further information from other sections (Blog, About, Resources, Documentation) is unavailable at this time.
+
+
+============================== MAPPED LINKS ==============================
+
+(Total: 2)
+
+- https://airweave.ai
+- https://airweave.ai/contactus
+
+============================== PAGE CLASSIFICATION SUMMARY ==============================
+
+Processed URLs: 2
+
+Page Type Counts:
+  - CONTACT: 1
+  - HOMEPAGE: 1
+
+Relevance for Summary Counts:
+  - HIGH: 1
+  - LOW: 1
+
+============================== INDIVIDUAL PAGE SUMMARIES (HIGH RELEVANCE) ==============================
+
+--- URL: https://airweave.ai ---
+CLASSIFIED TYPE: HOMEPAGE
+SUMMARY:
+Airweave is a no-code platform simplifying agent building with instant data sync and scalable deployment. It connects agents to apps, providing deep user knowledge to improve user experience. Key features include white-labeled support, 100+ connectors, and automated sync. It targets developers and CTOs seeking to accelerate agent development. Interactive elements include a 'Talk to a Founder' call to action, GitHub link, comparison section, and FAQs. The platform contrasts a complex 'Old Way' with its simplified 'Airweave Way'.
